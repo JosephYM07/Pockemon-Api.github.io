@@ -19,5 +19,3 @@ git clone https://github.com/JosephYM07/Pockemon-Api.git
 1. Abre el archivo **`index.html`** en tu navegador.
 
 <img src="img_api.png" alt="Captura de Pantalla" style="width: 50%; height: auto;">
-
-# Pockemon-Api.github.io
